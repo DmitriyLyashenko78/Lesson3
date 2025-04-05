@@ -117,13 +117,13 @@ button {
 .table-title {
     padding: 12px 15px;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
 }
-th, td {
+td {
     border: 1px solid #95a1bb;
-    padding: 11px 0 12px 15px;
+    padding: 12px 0 12px 15px;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
 }
 footer {
     background-color: rgba(163, 167, 255, 0.3);
